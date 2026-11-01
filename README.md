@@ -19,11 +19,12 @@
 <table>
   <tr>
     <td width="100%">
-      <h3><a href="https://github.com/OSAMABASAM/flame_in_freefall">Flame in Freefall</a></h3>
+      <p><img src="https://img.shields.io/badge/NASA_Space_Apps_Challenge-2026-0B3D91?style=for-the-badge" alt="NASA Space Apps Challenge 2026" /></p>
+      <h3><a href="https://github.com/OSAMABASAM/NASA_flame_in_freefall">Flame in Freefall</a></h3>
       <p>Ask, rank and compare NASA microgravity fire experiments for Moon Base fire safety. Built for NASA Space Apps Challenge 2026.</p>
       <p>
         <a href="https://flame-in-freefall-five.vercel.app"><img src="https://img.shields.io/badge/Live_demo-open-f97316?style=for-the-badge" alt="Live demo" /></a>
-        <a href="https://github.com/OSAMABASAM/flame_in_freefall"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="Code on GitHub" /></a>
+        <a href="https://github.com/OSAMABASAM/NASA_flame_in_freefall"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="Code on GitHub" /></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" alt="Next.js" />
