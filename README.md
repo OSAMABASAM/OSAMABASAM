@@ -3,7 +3,7 @@
 <p align="center"><b>CS Student · Junior AI Engineer</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=F97316&center=true&vCenter=true&width=520&lines=Computer+Science+student;Junior+AI+Engineer;Building+things+that+answer+real+questions" alt="Computer Science student, Junior AI Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=2800&pause=1000&color=FF7A00&center=true&vCenter=true&width=900&height=80&lines=Computer+Science+student;Junior+AI+Engineer;Building+things+that+answer+real+questions" alt="Computer Science student, Junior AI Engineer" />
 </p>
 
 ---
